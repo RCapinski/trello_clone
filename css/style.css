@@ -1,0 +1,42 @@
+input, button, submit
+{
+  border:none;
+}
+
+ul {
+  min-height: 50px;
+  background-color: grey;
+}
+
+button {
+  border: 2px solid #000;
+  border-radius: 10px;
+  background-color: #FFF;
+  margin: 5px;
+  
+}
+
+.column {
+  border: 2px solid #000;
+  max-width: 50%;
+  margin: 0 auto;
+  padding: 15px;
+  min-height: 25px;
+  line-height: 25px;
+  border-radius: 15px;
+  background-color: lightgrey;
+}
+  
+.card {
+  border: 2px solid #000;
+  max-width: 50%;
+  margin: 0 auto;
+  padding: 15px;
+  border-radius: 10px;
+  background-color: lightgrey;
+}
+
+.btn-delete {
+  background-color: #000;
+  color: #fff;
+}
